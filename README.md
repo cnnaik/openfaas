@@ -1,2 +1,2 @@
 # openfaas
-1 Test openfaas
+2 Test openfaas

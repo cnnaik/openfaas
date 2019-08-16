@@ -1,3 +1,3 @@
 # openfaasip444
-34
+35
 Test openfaas

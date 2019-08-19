@@ -1,4 +1,4 @@
 # openfaasip444
-39
-test 39
+40
+test 40
 Test openfaas
